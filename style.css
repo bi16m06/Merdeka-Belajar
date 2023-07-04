@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head img{
+    padding-top: 50px;
+    position: relative;
+}
+.head h1{
+    position: relative;
+    
+}
+.kegiatan h2{
+    position: relative;
+    top: 10px;
+    padding-left: 20px;
+}
+.kegiatan li{
+    position: relative;
+    width: calc(100% / 3 - 15px);
+    text-decoration: none;
+    padding-left: 30px;
+}
+.Informasi{
+    position: relative;
+    left: 30px;
+    top: 100px;
+}
+.support{
+    position: relative;
+    left: 30px;
+    top: 250px;
+}
+.support img{
+    height: 100px;
+}
